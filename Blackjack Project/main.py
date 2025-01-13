@@ -7,3 +7,4 @@ def deal_card():
     return card
 
 
+print("Hello world")
