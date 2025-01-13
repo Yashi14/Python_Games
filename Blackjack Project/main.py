@@ -7,7 +7,7 @@ def deal_card():
     return card
 
 
-print("Hello world")
+
 print("How are you?")
 print("My project is Blackjack project")
 print("welcome to my project")
