@@ -10,3 +10,4 @@ def deal_card():
 print("Hello world")
 print("How are you?")
 print("My project is Blackjack project")
+print("welcome to my project")
