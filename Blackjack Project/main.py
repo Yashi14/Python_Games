@@ -7,5 +7,3 @@ def deal_card():
     return card
 
 
-
-print("welcome to my project")
