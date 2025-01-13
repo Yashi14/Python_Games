@@ -8,5 +8,4 @@ def deal_card():
 
 
 
-print("My project is Blackjack project")
 print("welcome to my project")
